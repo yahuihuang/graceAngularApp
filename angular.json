@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "graceAngularApp"
+    }
+  },
+  "defaultProject": "graceAngularApp",
+  "cli": {
+    "analytics": "91aaa661-3999-4175-94b0-84f63ce15a94"
+  }
 }
